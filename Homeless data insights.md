@@ -11,7 +11,7 @@ part of a family with children.
 • The state_pop column is the state's total population. 
 
 In a Data Science world, the data is cheap and the questions are expensive and you 
-are paid for asking the right question. Find three insights from the homeless dataset
+are paid for asking the right question. Finding three insights from the homeless dataset
 ###### Used Rstudio for analysis
 ![Screenshot 2024-10-30 160605](https://github.com/user-attachments/assets/7ff4670a-e97f-4b93-b499-a6c569db98be)
 
