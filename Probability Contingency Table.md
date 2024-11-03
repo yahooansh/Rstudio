@@ -1,6 +1,5 @@
 #  Probability & Contingency Table
-Reviewing the kidney_stone.csv dataset. Medical 
-researchers are interested in evaluating the efficacy of two new treatments for small 
+Reviewing the kidney_stone.csv dataset. Evaluating the efficacy of two new treatments for small 
 and large kidney stone. The dataset contains the data from a clinical trial result of 
 the two new treatments. Dataset has the following variables: 
 • Size: size of the kidney stone. It can be large or small. 
